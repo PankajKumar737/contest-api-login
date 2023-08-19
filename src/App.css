@@ -1,0 +1,25 @@
+.main{
+  background-color: aliceblue;
+  border: 2px solid blue;
+  height: 320px;
+  width: 180px; 
+  padding: 0 10px 10px 10px;
+  text-align: center;
+  margin-left: 150px;
+  justify-content: center;
+}
+span{
+  color: blue;
+}
+.forgot{
+  color: blue;
+}
+.btn{
+  background-color: blue;
+  height: 1.4rem;
+  width: 7rem;
+}
+.signup{
+  margin-left: 150px;
+}
+
